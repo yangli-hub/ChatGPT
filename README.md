@@ -4,6 +4,7 @@ The ChatGPT model is a large language model trained by OpenAI that is capable of
 
 # ChatGPT Download
   Official Website: https://chat.openai.com/auth/login?next=/chat
+  
   ChatGPT Desktop App: 
     MacOS:https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64.dmg
     Windows:https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64_en-US.msi
