@@ -15,4 +15,5 @@ The ChatGPT model is a large language model trained by OpenAI that is capable of
     
 (Note: The unofficial ChatGPT desktop application provides a convenient way to access and use the prompts in this repository. With the app, you can easily import all the prompts and use them with slash commands, such as /linux_terminal. This feature eliminates the need to manually copy and paste prompts each time you want to use them.)
 
-#
+# Visual ChatGPT
+  https://github.com/microsoft/visual-chatgpt
