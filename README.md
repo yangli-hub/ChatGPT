@@ -3,9 +3,9 @@
 The ChatGPT model is a large language model trained by OpenAI that is capable of generating human-like text. By providing it with a prompt, it can generate responses that continue the conversation or expand on the given prompt.
 
 # ChatGPT Download
-  Official Website: https://chat.openai.com/auth/login?next=/chat
+**  Official Website:** https://chat.openai.com/auth/login?next=/chat
   
-  ChatGPT Desktop App: 
+**  ChatGPT Desktop App:** 
     - MacOS:https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64.dmg
     - Windows:https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64_en-US.msi
     - Linux: https://github.com/lencx/ChatGPT/releases/download/v0.10.1/chat-gpt_0.10.1_amd64.deb
